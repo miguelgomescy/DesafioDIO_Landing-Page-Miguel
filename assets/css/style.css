@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@800&family=Raleway:wght@300&family=Roboto:wght@100&display=swap');
+
+.banner-content{
+    text-align: center;
+}
+
+.buton{
+    
+    
+}
+
+#course-content{
+    text-align: center;
+    background: black;
+    color: white;
+    height: 250px;
+}
+
+.module{
+    border: 1px solid rgb(88, 88, 221);
+    border-radius: 30px;
+    background-color: gray;
+    margin-top: 10px;
+    width: 500px;
+    
+}
+
+.module-letter{
+    color: blue;
+}
+
+#professional-challenges{
+    text-align: center;
+    background: black;
+    color: white;
+}
+
+footer{
+    background: rgb(68, 68, 102);
+    text-align: center;
+}
